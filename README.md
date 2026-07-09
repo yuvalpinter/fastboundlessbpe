@@ -421,23 +421,19 @@ Apache License 2.0 - see LICENSE file for details.
 If you use BoundlessBPE in your research, please cite:
 
 ```bibtex
-@misc{schmidt2025boundlessbytepairencoding,
+@inproceedings{schmidt2025boundlessbytepairencoding,
       title={Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier},
       author={Craig W. Schmidt and Varshini Reddy and Chris Tanner and Yuval Pinter},
+      booktitle={Conference on Language Modeling (COLM)},
       year={2025},
-      eprint={2504.00178},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
       url={https://arxiv.org/abs/2504.00178},
 }
 
-@misc{schmidt2026fastersuperwordtokenization,
+@inproceedings{schmidt2026fastersuperwordtokenization,
       title={Faster Superword Tokenization}, 
       author={Craig W. Schmidt and Chris Tanner and Yuval Pinter},
+      booktitle={Conference on Language Modeling (COLM)},
       year={2026},
-      eprint={2604.05192},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
       url={https://arxiv.org/abs/2604.05192}, 
 }
 ```
